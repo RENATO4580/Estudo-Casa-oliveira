@@ -63,7 +63,7 @@
 
 ### Diagrama do Modelo Lógico
 <p align="center">
-    <img src="diagrama-modelo-logico.png">
+    <img src="diagrama-modelo-logico1.png">
 </p>
 
 ### Modelo de Entidade Relacional - Modelo Lógico
